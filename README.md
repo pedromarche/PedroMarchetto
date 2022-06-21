@@ -5,7 +5,7 @@
 
 <h1 align="center">Hola 👋, soy Pedro Marchetto // Hi 👋, I'm Pedro Marchetto</h1>
 
-<h3 align="center">Tengo 25 años, soy de Argentina amante de de las carreras y la tecnologia. Actualmente estoy enfocado en mi carrera como full stack web development, sistemas, metodologias agiles, transformacion digital y aprendizage de nuevas tecnologias. Recientemente termine una certificacion en full stack. Me veo a mi mismo como una persona dedicada, perseverante con mis objetivos y creativo para la resolución de problemas. Te invito a que descubras mis habilidades. Bienvenido!!
+<h3 align="center">Tengo 25 años, soy de Argentina amante de de las carreras y la tecnologia. Actualmente estoy enfocado en mi carrera como full stack web development, sistemas, metodologias agiles, transformacion digital y aprendizaje de nuevas tecnologías. Recientemente termine una certificacion en full stack. Me veo a mi mismo como una persona dedicada, perseverante con mis objetivos y creativo para la resolución de problemas. Te invito a que descubras mis habilidades. Bienvenido!!
 
    
 I am 25 years old Argentinian who loves motorsports and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. I recently finished a full stack web develper certification. I see myself as a dedicate and perseverant with reaching my goals and also creative on problems resolution, I want share with you my skills. Welcome!!</h3>
