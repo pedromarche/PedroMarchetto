@@ -3,7 +3,7 @@
 ![my-name-is-Piteru](https://user-images.githubusercontent.com/91899327/174914569-e4f06a6b-54b3-4ec5-9304-35c223d8459b.jpg)
 
 
-<h1 align="center">Hola 👋, soy Pedro Marchetto // Hi 👋, I'm Pedro Marchetto</h1>
+
 
 <h3 align="center">Tengo 25 años, soy de Argentina amante de de las carreras y la tecnologia. Actualmente estoy enfocado en mi carrera como full stack web development, sistemas, metodologias agiles, transformacion digital y aprendizaje de nuevas tecnologías. Recientemente termine una certificacion en full stack. Me veo a mi mismo como una persona dedicada, perseverante con mis objetivos y creativo para la resolución de problemas. Te invito a que descubras mis habilidades. Bienvenido!!
 
