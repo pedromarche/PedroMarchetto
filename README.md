@@ -1,6 +1,6 @@
 
 
-<img src="![my-name-is-Piteru](https://user-images.githubusercontent.com/91899327/174914569-e4f06a6b-54b3-4ec5-9304-35c223d8459b.jpg)"/>
+![my-name-is-Piteru](https://user-images.githubusercontent.com/91899327/174914569-e4f06a6b-54b3-4ec5-9304-35c223d8459b.jpg)
 
 
 <h1 align="center">Hola 👋, soy Pedro Marchetto // Hi 👋, I'm Pedro Marchetto</h1>
