@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="Hola, Hello"/>
+<img src="![1 (2)](https://user-images.githubusercontent.com/91899327/174881399-55730ecb-680d-401a-b42e-b0979ead8121.png)" alt="Hola, Hello"/>
 
 
 <h1 align="center">Hola 👋, soy Pedro Marchetto // Hi 👋, I'm Pedro Marchetto</h1>
